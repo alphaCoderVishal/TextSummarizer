@@ -1,66 +1,14 @@
-With thousands of stocks, bonds, and mutual funds to choose from, picking the right investments can confuse even the most seasoned investor. But if you don't do it correctly, you can undermine your own ability to build wealth and a nest egg for retirement. So what's the best thing to do? Instead of stock picking, you should start by deciding what mix of stocks, bonds, and mutual funds you want to hold. This is referred to as your asset allocation. In this article, we take a look at asset allocation, and five of the most important things you need to know about this technique.
-
-KEY TAKEAWAYS
-Asset allocation tries to balance risk by dividing assets among investment vehicles.
-The risk-return tradeoff is at the core of what asset allocation is all about.
-Don't put all your faith in financial planning software and survey sheets.
-Know your goals.
-Time allows you to take advantage of compounding and the time value of money.
-What Is Asset Allocation?
-Asset allocation is an investment portfolio technique that aims to balance risk by dividing assets among major categories such as cash, bonds, stocks, real estate, and derivatives. Each asset class has different levels of return and risk, so each will behave differently over time.
-
-
-For instance, while one asset category increases in value, another may decrease or may not increase as much. Some critics see this balance as a recipe for mediocre returns, but for most investors, it's the best protection against a major loss should things ever go amiss in one investment class or sub-class.
-
-
-The consensus among most financial professionals is that asset allocation is one of the most important decisions investors make. In other words, your selection of stocks or bonds is secondary to the way you allocate your assets to high and low-risk stocks, to short and long-term bonds, and to cash.
-
-
- Most financial professionals believe that asset allocation is one of the most important decisions investors can make.
-There is no simple formula that can find the right asset allocation for every individual. If there were, we certainly wouldn't be able to explain it in one article. We can, however, outline five points that we feel are important when thinking about asset allocation.
-
-
-1. Risk vs. Return
-The risk-return tradeoff is at the core of what asset allocation is all about. It's easy for everyone to say that they want the highest possible return, but simply choosing the assets with the highest potential—stocks and derivatives—isn't the answer.
-
-
-The crashes of 1929, 1981, 1987, and the more recent declines following the global financial crisis between 2007 to 2009 are all examples of times when investing in only stocks with the highest potential return was not the most prudent plan of action. It's time to face the truth: Every year your returns are going to be beaten by another investor, mutual fund, pension plan, etc. What separates greedy and return-hungry investors from successful ones is the ability to weigh the relationship between risk and return.
-
-
-Yes, investors with a higher risk tolerance should allocate more money into stocks. But if you can't remain invested through the short-term fluctuations of a bear market, you should cut your exposure to equities.
-
-
-2. Software and Planner Sheets
-Financial planning software and survey sheets designed by financial advisors or investment firms can be beneficial, but never rely solely on software or some pre-determined plan. For example, one old rule of thumb that some advisors use to determine the proportion a person should allocate to stocks is to subtract the person's age from 100. In other words, if you're 35, you should put 65% of your money into stocks and the remaining 35% into bonds, real estate, and cash. More recent advice has shifted to 110 or even 120 minus your age.
-
-
-But standard worksheets sometimes don't take into account other important information such as whether or not you are a parent, retiree, or spouse. Other times, these worksheets are based on a set of simple questions that don't capture your financial goals.
-
-Remember, financial institutions love to peg you into a standard plan not because it's best for you, but because it's easy for them. Rules of thumb and planner sheets can give people a rough guideline, but don't get boxed into what they tell you.
-
-3. Know Your Goals
-We all have goals. Whether you aspire to build a fat retirement fund, own a yacht or vacation home, pay for your child's education, or simply save for a new car, you should consider it in your asset-allocation plan. All these goals need to be considered when determining the right mix.
-
-For example, if you plan to own a retirement condo on the beach in 20 years, you don't have to worry about short-term fluctuations in the stock market. But if you have a child who will be entering college in five to six years, you may need to tilt your asset allocation to safer fixed-income investments. And as you approach retirement, you may want to shift to a higher proportion of fixed-income investments to equity holdings.
-
-4. Time Is Your Best Friend
-The U.S. Department of Labor has said that for every 10 years you delay saving for retirement—or some other long-term goal—you have to save three times as much each month to catch up.
-
-﻿
-
-Having time not only allows you to take advantage of compounding and the time value of money, but it also means you can put more of your portfolio into higher risk/return investments, namely stocks. A couple of bad years in the stock market will likely show up as nothing more than an insignificant blip 30 years from now.
-
-5. Just Do It!
-Once you determine the right mix of stocks, bonds, and other investments, it's time to implement it. The first step is to find out how your current portfolio breaks down.
-
-It's fairly straightforward to see the percentage of assets in stocks versus bonds, but don't forget to categorize what type of stocks you own—small, mid, or large cap. You should also categorize your bonds according to their maturity—short, mid or long-term.
-
-Mutual funds can be more problematic. Fund names don't always tell the entire story. You have to dig deeper in the prospectus to figure out where fund assets are invested.
-
-The Bottom Line
-There is no single solution for allocating your assets. Individual investors require individual solutions. Furthermore, if a long-term horizon is something you don't have, don't worry. It's never too late to get started. It's also never too late to give your existing portfolio a face-lift. Asset allocation is not a one-time event, it's a life-long process of progression and fine-tuning. 
-
-SPONSORED
-Win Up to $10,000 While Trading Digital Assets
-Digital asset trading just got easier. With OKX, a leading digital asset financial service provider, you can access world-class security as you trade and store assets. What’s more, you can win a Mystery Box worth up to $10,000 when you complete a deposit of more than $50 through a crypto purchase or top-up within 30 days of registration. Learn more and sign up to claim your Mystery Box today.
-hello
+Imagine that you are the Director of Customer Relationships at AllElectronics, and you have five
+managers working for you. You would like to organize all the company’s customers into
+five groups so that each group can be assigned to a different manager. Strategically, you
+would like that the customers in each group are as similar as possible. Moreover, two
+given customers having very different business patterns should not be placed in the same
+group. Your intention behind this business strategy is to develop customer relationship
+campaigns that specifically target each group, based on common features shared by the
+customers per group. What kind of data mining techniques can help you to accomplish
+this task?
+Unlike in classification, the class label (or group ID) of each customer is unknown.
+You need to discover these groupings. Given a large number of customers and many
+attributes describing customer profiles, it can be very costly or even infeasible to have a
+human study the data and manually come up with a way to partition the customers into
+strategic groups. You need a clustering tool to help.
